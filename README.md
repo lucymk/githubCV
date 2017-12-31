@@ -52,5 +52,5 @@ __2008:__ Highers: Maths, Physics, Chemistry, English, German, Modern Studies (A
 
 ## <a name="contact">Contact
 
-__Email:__ lucy.m.king92@gmail.com
+__Email:__ lucy.m.king92@gmail.com  
 __Gitter:__ @lucymk
