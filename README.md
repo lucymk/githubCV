@@ -29,7 +29,7 @@ Check out my [portfolio](https://github.com/lucymk/portfolio)
 ## <a name="education">Education
 
 ### Founders & Coders
-![](https://media.licdn.com/media/p/8/005/0a3/300/0f370ec.png)
+![](https://media.licdn.com/media/p/8/005/0a3/300/0f370ec.png "FAC logo" width="100px") 
 
 A 16 week full time Javascript course learning the fundamentals of front and backend development. Working in teams, pair programming, testing and paying close attention to UX. Completing weekly projects following agile methodologies. Weekly talks from experts in industry on topics such as accessibility, AI, performance, PWAs and security. 
 
