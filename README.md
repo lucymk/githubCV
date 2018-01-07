@@ -29,17 +29,22 @@ Check out my [portfolio](https://github.com/lucymk/portfolio)
 ## <a name="education">Education
 
 ### Founders & Coders
-<img src="assets/FAClogo.png" alt="FAC logo" width="350px">
+<img src="assets/FAClogo.png" alt="Founders & Coders logo" width="350px">
 
 __Oct 2017 to present:__ A 16 week full time Javascript course learning the fundamentals of front and backend development. Working in teams, pair programming, testing and paying close attention to UX. Completing weekly projects following agile methodologies. Weekly talks from experts in industry on topics such as accessibility, AI, performance, PWAs and security. 
 
 ### Centre of English Studies
-<img src="assets/CESlogo.png" alt="CES logo" width="350px">
+<img src="assets/CESlogo.png" alt="Centre of English Studies logo" width="350px">
 
 __2016:__ CELTA Qualification (Certificate in Teaching English to Speakers of Other Languages) 
 
+### Deaf Action 
+<img src="assets/DAlogo.png" alt="Deaf Action logo" width="350px">
+
+__2015:__ SQA Level 1 BSL (British Sign Language) - Intermediate 1
+
 ### University of Bristol
-<img src="assets/BRSlogo.png" alt="Bristol logo" width="350px">
+<img src="assets/BRSlogo.png" alt="University of Bristol logo" width="350px">
 
 __2010-2013:__ BSc. Mathematics & Philosophy, 2:1
 
