@@ -50,10 +50,10 @@ __2008:__ Highers: Maths, Physics, Chemistry, English, German, Modern Studies (A
 
 ## <a name="interests">Interests
 
-:bike::wrench: Cycling and bike maintenance.
-:mushroom::seedling: Growing things. 
-:loudspeaker::raising_hand: Social action and politics.
-:art::dress: Crafting and trying to be artistic.
+:bike::wrench: Cycling and bike maintenance.  
+:mushroom::seedling: Growing things.  
+:loudspeaker::raising_hand: Social action and politics.  
+:art::dress: Crafting and trying to be artistic.  
 
 ## <a name="contact">Contact
 
