@@ -27,37 +27,37 @@ Check out my [portfolio](https://github.com/lucymk/portfolio)
 ## <a name="work">Work
 
 ### Jan 2017 - Aug 2017: ONCampus at the University of Amsterdam 
-#### English Teacher
+English Teacher
 
 ### Feb 2016 - Jan 2017: Ran my own business as an English teacher in Amsterdam
-__Clients included The British Language Training Centre, The Language Corner, Amsteltaalcentrum as well as private students__
+Clients included The British Language Training Centre, The Language Corner, Amsteltaalcentrum as well as private students
 
 ### June 2015 - Aug 2015: Churchill House Summer Centres, Ramsgate, Kent
-#### Student Support Officer
+Student Support Officer
 
 ### June 2014 - April 2015: Prestige Nursing & Care, Edinburgh
-#### Home Care Assistant
+Home Care Assistant
 
 ### Dec 2013 - April 2014: The Ski Company, Switzerland
-#### Chalet Staff
+Chalet Staff
 
 ### Aug 2013 - Nov 2013: Unite Group, Bristol
-#### Service and Sales Assistant
+Service and Sales Assistant
 
 ### June 2012 - Aug 2012: Project Trust
-#### London Intern
+London Intern
 
 ### Oct 2011 - May 2012: University of Bristol Widening Participation Department
-#### Student Ambassador
+Student Ambassador
 
 ### June 2011 - Dec 2013: The Moringa Tree, London/Bristol
-#### Festival/Events Organiser & Fundraising Assistant
+Festival/Events Organiser & Fundraising Assistant
 
 ### Aug 2011 - Sept 2011: Fairbride West (now part of The Prince's Trust), Bristol
-#### Intern
+Intern
 
 ### Aug 2009 - Aug 2010: Ministry of Education, Guyana 
-#### Science & Mathematics teacher 
+Science & Mathematics teacher 
 
 ## <a name="education">Education
 
