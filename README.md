@@ -26,6 +26,39 @@ Check out my [portfolio](https://github.com/lucymk/portfolio)
 
 ## <a name="work">Work
 
+### Jan 2017 - Aug 2017: ONCampus at the University of Amsterdam 
+#### English Teacher
+
+### Feb 2016 - Jan 2017: Ran my own business as an English teacher in Amsterdam
+__Clients included The British Language Training Centre, The Language Corner, Amsteltaalcentrum as well as private students__
+
+### June 2015 - Aug 2015: Churchill House Summer Centres, Ramsgate, Kent
+#### Student Support Officer
+
+### June 2014 - April 2015: Prestige Nursing & Care, Edinburgh
+#### Home Care Assistant
+
+### Dec 2013 - April 2014: The Ski Company, Switzerland
+#### Chalet Staff
+
+### Aug 2013 - Nov 2013: Unite Group, Bristol
+#### Service and Sales Assistant
+
+### June 2012 - Aug 2012: Project Trust
+#### London Intern
+
+### Oct 2011 - May 2012: University of Bristol Widening Participation Department
+#### Student Ambassador
+
+### June 2011 - Dec 2013: The Moringa Tree, London/Bristol
+#### Festival/Events Organiser & Fundraising Assistant
+
+### Aug 2011 - Sept 2011: Fairbride West (now part of The Prince's Trust), Bristol
+#### Intern
+
+### Aug 2009 - Aug 2010: Ministry of Education, Guyana 
+#### Science & Mathematics teacher 
+
 ## <a name="education">Education
 
 ### Founders & Coders
@@ -33,22 +66,30 @@ Check out my [portfolio](https://github.com/lucymk/portfolio)
 
 __Oct 2017 to present:__ A 16 week full time Javascript course learning the fundamentals of front and backend development. Working in teams, pair programming, testing and paying close attention to UX. Completing weekly projects following agile methodologies. Weekly talks from experts in industry on topics such as accessibility, AI, performance, PWAs and security. 
 
+---
+
 ### Centre of English Studies
 <img src="assets/CESlogo.png" alt="Centre of English Studies logo" width="350px">
 
 __2016:__ CELTA Qualification (Certificate in Teaching English to Speakers of Other Languages) 
+
+---
 
 ### Deaf Action 
 <img src="assets/DAlogo.png" alt="Deaf Action logo" width="350px">
 
 __2015:__ SQA Level 1 BSL (British Sign Language) - Intermediate 1
 
+---
+
 ### University of Bristol
 <img src="assets/BRSlogo.png" alt="University of Bristol logo" width="350px">
 
 __2010-2013:__ BSc. Mathematics & Philosophy, 2:1
 
-### _St. Margaret's School, Edinburgh_							    
+---
+
+### St. Margaret's School, Edinburgh							    
 
 __2009:__ Advanced Highers: Maths, Physics (AA)  
 __2008:__ Highers: Maths, Physics, Chemistry, English, German, Modern Studies (AAAAAA)
