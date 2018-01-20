@@ -60,7 +60,7 @@ __Oct 2017 to present:__ A 16 week full time Javascript course learning the fund
 
 __2017:__ DELE Nivel B1 (Spanish language qualification) 
   
-
+<br/>
 
 ---
 <img align="right" img src="assets/CESlogo.png" alt="Centre of English Studies logo" width="300px">
@@ -87,7 +87,8 @@ __2015:__ SQA Level 1 BSL (British Sign Language) - Intermediate 1
 
 __2010-2013:__ BSc. Mathematics & Philosophy, 2:1  
   
-<br/>  
+<br/> 
+
 ---
 
 ### St. Margaret's School, Edinburgh							    
