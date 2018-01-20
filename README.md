@@ -54,34 +54,39 @@ Science & Mathematics teacher
 __Oct 2017 to present:__ A 16 week full time Javascript course learning the fundamentals of front and backend development. Working in teams, pair programming, testing and paying close attention to UX. Completing weekly projects following agile methodologies. Weekly talks from experts in industry on topics such as accessibility, AI, performance, PWAs and security. 
 
 ---
-
-### Instituto Cervantes
 <img align="right" img src="assets/cervantesLogo.png" alt="Instituto Cervantes logo" width="300px">
 
+### Instituto Cervantes
+
 __2017:__ DELE Nivel B1 (Spanish language qualification) 
+  
+
 
 ---
-
-
-### Centre of English Studies
 <img align="right" img src="assets/CESlogo.png" alt="Centre of English Studies logo" width="300px">
 
+### Centre of English Studies
+
 __2016:__ CELTA Qualification (Certificate in Teaching English to Speakers of Other Languages) 
+  
+
 
 ---
-
-### Deaf Action 
 <img align="right" img src="assets/DAlogo.png" alt="Deaf Action logo" width="300px">
 
-__2015:__ SQA Level 1 BSL (British Sign Language) - Intermediate 1
+### Deaf Action 
+
+__2015:__ SQA Level 1 BSL (British Sign Language) - Intermediate 1  
+  
 
 ---
-
-### University of Bristol
 <img align="right" img src="assets/BRSlogo.png" alt="University of Bristol logo" width="300px">
 
-__2010-2013:__ BSc. Mathematics & Philosophy, 2:1
+### University of Bristol
 
+__2010-2013:__ BSc. Mathematics & Philosophy, 2:1  
+  
+  
 ---
 
 ### St. Margaret's School, Edinburgh							    
@@ -92,7 +97,7 @@ __2008:__ Highers: Maths, Physics, Chemistry, English, German, Modern Studies (A
 ## <a name="interests">Interests
 
 :bike::wrench: Cycling and bike maintenance.  
-:mushroom::seedling: Growing things. 
+:mushroom::seedling: Growing things.  
 :lips::raised_hands: All kinds of languages and positive communication. 
 :loudspeaker::raising_hand: Social action and politics.  
 :art::dress: Crafting and trying to be artistic.  
