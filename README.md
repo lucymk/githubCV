@@ -21,6 +21,7 @@ I have worked on a variety of projects using the following technologies.
 | Markdown		  | Plotly.js			  |				  |			     |            |	Pair programming |
 | SASS            |                       |               |              |            |                  |
 
+<br/>
 
 ## <a name="projects">Projects
 
@@ -28,7 +29,7 @@ Check out my [portfolio](https://github.com/lucymk/portfolio)
 
 ## <a name="work">Work
 
-### ONCampus at the University of Amsterdam (Jan-Aug 2017)
+**ONCampus at the University of Amsterdam (Jan-Aug 2017)**
 English Teacher 
 
 ### Ran my own business as an English teacher in Amsterdam (Feb-Jan 2017)
