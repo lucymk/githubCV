@@ -69,7 +69,7 @@ __2017:__ DELE Nivel B1 (Spanish language qualification)
 
 __2016:__ CELTA Qualification (Certificate in Teaching English to Speakers of Other Languages) 
   
-
+<br/>
 
 ---
 <img align="right" img src="assets/DAlogo.png" alt="Deaf Action logo" width="300px">
@@ -78,6 +78,7 @@ __2016:__ CELTA Qualification (Certificate in Teaching English to Speakers of Ot
 
 __2015:__ SQA Level 1 BSL (British Sign Language) - Intermediate 1  
   
+<br/>
 
 ---
 <img align="right" img src="assets/BRSlogo.png" alt="University of Bristol logo" width="300px">
@@ -86,7 +87,7 @@ __2015:__ SQA Level 1 BSL (British Sign Language) - Intermediate 1
 
 __2010-2013:__ BSc. Mathematics & Philosophy, 2:1  
   
-  
+<br/>  
 ---
 
 ### St. Margaret's School, Edinburgh							    
