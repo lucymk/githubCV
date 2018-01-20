@@ -21,29 +21,32 @@ I have worked on a variety of projects using the following technologies.
 | Markdown		  | Plotly.js			  |				  |			     |            |	Pair programming |
 | SASS            |                       |               |              |            |                  |
 
+<br/>
 
 ## <a name="projects">Projects
 
 Check out my [portfolio](https://github.com/lucymk/portfolio)
 
+<br/>
+
 ## <a name="work">Work
 
-### ONCampus at the University of Amsterdam (Jan-Aug 2017)
+**ONCampus at the University of Amsterdam (Jan-Aug 2017)**  
 English Teacher 
 
-### Ran my own business as an English teacher in Amsterdam (Feb-Jan 2017)
+**Ran my own business as an English teacher in Amsterdam (Feb-Jan 2017)**  
 Clients included The British Language Training Centre, The Language Corner, Amsteltaalcentrum as well as private students.
 
-### Prestige Nursing & Care, Edinburgh (June 2014 - April 2015)
+**Prestige Nursing & Care, Edinburgh (June 2014 - April 2015)**  
 Home Care Assistant
 
-### University of Bristol Widening Participation Department (Oct 2011 - May 2012)
+**University of Bristol Widening Participation Department (Oct 2011 - May 2012)**  
 Worked to engage young people from underrepresented backgrounds.
 
-### The Moringa Tree, London/Bristol (June 2011 - Dec 2013)
+**The Moringa Tree, London/Bristol (June 2011 - Dec 2013)**  
 Festival/Events Organiser & Fundraising Assistant
 
-### Paramakatoi Secondary School, Ministry of Education, Guyana (Aug 2009 - Aug 2010)
+**Paramakatoi Secondary School, Ministry of Education, Guyana (Aug 2009 - Aug 2010)**  
 Science & Mathematics teacher 
 
 ## <a name="education">Education
