@@ -100,7 +100,7 @@ __2008:__ Highers: Maths, Physics, Chemistry, English, German, Modern Studies (A
 
 :bike::wrench: Cycling and bike maintenance.  
 :mushroom::seedling: Growing things.  
-:lips::raised_hands: All kinds of languages and positive communication. 
+:lips::raised_hands: All kinds of languages and positive communication.  
 :loudspeaker::raising_hand: Social action and politics.  
 :art::dress: Crafting and trying to be artistic.  
 
