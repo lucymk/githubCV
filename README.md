@@ -34,7 +34,7 @@ Check out my [portfolio](https://github.com/lucymk/portfolio)
 **ONCampus at the University of Amsterdam (Jan-Aug 2017)**  
 English Teacher 
 
-**Ran my own business as an English teacher in Amsterdam (Feb-Jan 2017)**  
+**Ran my own business as an English teacher in Amsterdam (March 2016-Jan 2017)**  
 Clients included The British Language Training Centre, The Language Corner, Amsteltaalcentrum as well as private students.
 
 **Prestige Nursing & Care, Edinburgh (June 2014 - April 2015)**  
