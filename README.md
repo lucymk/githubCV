@@ -17,9 +17,9 @@ I have worked on a variety of projects using the following technologies.
 | JavaScript      | Node.js          	  | TDD with Tape | InVision     | PostgreSQL | Git & GitHub     |
 | HTML5       	  | Express.js        	  | Travis CI 	  | Figma        |            | Heroku           |
 | CSS3		      | Handlebars            | CodeCov       |              |            | Accessibility    |
-| R               | Leaflet.js            | QUnit         |              |            | TDD              | 
+| R               | React               | QUnit         |              |            | TDD              | 
 | Markdown		  | Plotly.js			  |				  |			     |            |	Pair programming |
-| SASS            |                       |               |              |            |                  |
+| SASS            | Leaflet.js            |               |              |            |                  |
 
 <br/>
 
