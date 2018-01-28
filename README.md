@@ -6,7 +6,7 @@ Student at Founders & Coders, a brilliant peer-led web development bootcamp in L
 
 I'm passionate about the potential of technology to solve problems and make our world better. Looking for an environment which offers opportunities to learn, to write clean and accessible code, to be creative and to work collaboratively. 
 
-[Skills](#skills) | [Projects](#projects) | [Work](#work) | [Education](#education) | [Interests](#interests) | [Contact](#contact) | [PDF CV](./assets/Lucy King CV (tech 2018).pdf)
+[Skills](#skills) | [Projects](#projects) | [Work](#work) | [Education](#education) | [Interests](#interests) | [Contact](#contact) | [PDF CV](./assets/pdfCV.pdf)
 
 ## <a name="skills">Skills
 
