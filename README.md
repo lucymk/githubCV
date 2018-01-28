@@ -25,7 +25,7 @@ I have worked on a variety of projects using the following technologies.
 
 ## <a name="projects">Projects
 
-Check out my [portfolio](https://github.com/lucymk/portfolio)
+Check out my [portfolio](https://lucymk.github.io/portfolio)
 
 <br/>
 
